@@ -53,8 +53,8 @@ const Programmers = () => {
                 </div>
                 <div className='col-lg-3'>
                     <div className='card p-2'>
-                        <h5>Programmers added: {hiredCoders.length}</h5>
-                        <h5>Total: $ {total}</h5>
+                        <h5>Programmers added: <b>{hiredCoders.length}</b></h5>
+                        <h5>Total: $ <b>{total}</b></h5>
                         {
                             hiredCoders.map(coder => <Hired 
                                 key={coder.id} 
