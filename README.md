@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Make the ultimate programmers club
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project live site link [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
