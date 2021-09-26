@@ -6,7 +6,7 @@
         "handle": "tourist",
         "rating": 3707,
         "contribution": "+177",
-        "salary": 5000
+        "salary": 200000
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "handle": "Errichto",
         "rating": 3000,
         "contribution": "+51",
-        "salary": 5000
+        "salary": 150000
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "handle": "neal",
         "rating": 3147,
         "contribution": "+126",
-        "salary": 5000
+        "salary": 110000
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "handle": "Endagorion",
         "rating": 2977,
         "contribution": "+121",
-        "salary": 5000
+        "salary": 100000
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "handle": "Isonan",
         "rating": 2983,
         "contribution": "+4",
-        "salary": 5000
+        "salary": 130000
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "handle": "Petr",
         "rating": 3229,
         "contribution": "+130",
-        "salary": 5000
+        "salary": 170000
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "handle": "Egor",
         "rating": 3211,
         "contribution": "+85",
-        "salary": 5000
+        "salary": 120000
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "handle": "MagicSpark",
         "rating": 2671,
         "contribution": "+51",
-        "salary": 5000
+        "salary": 70000
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "handle": "nealchen",
         "rating": 2670,
         "contribution": "0",
-        "salary": 5000
+        "salary": 75000
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "handle": "Radewoosh",
         "rating": 3655,
         "contribution": "+170",
-        "salary": 5000
+        "salary": 48000
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "handle": "Miracle03",
         "rating": 3480,
         "contribution": "+108",
-        "salary": 5000
+        "salary": 50000
     },
     {
         "id": 12,
@@ -105,6 +105,6 @@
         "handle": "mnbvmar",
         "rating": 3209,
         "contribution": "+96",
-        "salary": 5000
+        "salary": 31000
     }
 ]
