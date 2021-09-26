@@ -2,6 +2,8 @@ import React from 'react';
 import './Programmer.css'
 
 const Programmer = (props) => {
+    
+    // destructuring the property of props.programmer
     const { name, img, handle, rating, contribution, salary } = props.programmer;
 
     return (

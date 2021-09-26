@@ -6,7 +6,10 @@ function App() {
 
   return (
     <div className='container my-3'>
+      {/* Header -> component for webpage header section */}
       <Header />
+
+      {/* Programmmer -> component for holding programmer and hiring data */}
       <Programmers />
     </div>
   );
